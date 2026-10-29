@@ -1,0 +1,6 @@
+{
+  "name": "NextStep Academy - Modern Education Platform Demo",
+  "description": "Portfolio demo website for NextStep Academy, featuring structured technical courses, syllabus previews, fictional faculty, and interactive enquiry workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
